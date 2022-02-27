@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1092858220375",
+    "firebase_url": "https://transportatease-e1b8a.firebaseio.com",
+    "project_id": "transportatease-e1b8a",
+    "storage_bucket": "transportatease-e1b8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092858220375:android:b1a1f0b68c6ed0c869b812",
+        "android_client_info": {
+          "package_name": "com.example.transportatease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092858220375-dje966vbpmtlqqhbcqiniqsvq0klbqe3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.transportatease",
+            "certificate_hash": "de91505727d5454a576a940ad02432ba03f039c2"
+          }
+        },
+        {
+          "client_id": "1092858220375-ssf0j6d4ouu2l5l4882us92ci1p124s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7sc37a5UrDU7ZFuyCQRQSgzna57zWIbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092858220375-ssf0j6d4ouu2l5l4882us92ci1p124s5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

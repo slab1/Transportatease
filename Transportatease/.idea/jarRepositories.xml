@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="BintrayJCenter" />
+      <option name="name" value="BintrayJCenter" />
+      <option name="url" value="https://jcenter.bintray.com/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="Google" />
+      <option name="name" value="Google" />
+      <option name="url" value="https://dl.google.com/dl/android/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="e6b2f144-632f-4e33-b653-6e7397d5bd6b" />
+      <option name="name" value="e6b2f144-632f-4e33-b653-6e7397d5bd6b" />
+      <option name="url" value="https://dl.google.com/dl/android/maven2/androidx/appcompat/appcompat-7/26.1.0/appcompat-7-26.1.0.pom" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="13eeeb50-20fd-4a21-8fdc-3af4ae36a903" />
+      <option name="name" value="13eeeb50-20fd-4a21-8fdc-3af4ae36a903" />
+      <option name="url" value="https://jcenter.bintray.com/androidx/appcompat/appcompat-7/26.1.0/appcompat-7-26.1.0.pom" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="MavenRepo" />
+      <option name="name" value="MavenRepo" />
+      <option name="url" value="https://repo.maven.apache.org/maven2/" />
+    </remote-repository>
+  </component>
+</project>
